@@ -1,39 +1,25 @@
-### Hello, World!
+# Hi, I’m Ata Ege Asiltürk 👋
 
-<img width="250px" align="right" src="https://c.tenor.com/KbXIBwtIzoYAAAAC/piano-bruce-almighty.gif" alt="piano bruce almighty">
+**Backend Developer** and Computer Science student at Warsaw University of Technology.
 
-- 👀 __**Name**__: Ata Ege Asiltürk
-- 🖥️ **Who?**: I'm a Turkish high school student who loves to code.
-- 🤿 **Learning:** Unity
-- 🎮🏎️ **Interests:** Playing single player, action and FPS games (not a good shooter 😔 on Valorant). Watching and talking about F1.
+I build production APIs, microservices, and AI-enabled backend systems. My recent work spans NestJS, .NET, PostgreSQL/pgvector, Redis, RabbitMQ, Docker, and RAG workflows.
 
-#### Which techs do I use?
+### What I’m focused on
 
-<img src="https://img.shields.io/badge/Node.js-589F4B?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js">  <img src="https://img.shields.io/badge/Typescript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"> <img src="https://img.shields.io/badge/Javascript-FCDC00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"> <img src="https://img.shields.io/badge/.NET-8456C7?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Golang-69D7E2?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
+- Reliable backend services and REST APIs
+- AI integrations, RAG, and vector search
+- Distributed systems, messaging, caching, and developer tooling
 
-#### Contact me!
-<a href="https://discord.com/users/661983101601185813" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"> 
-</a>
-<a href="mailto:ataegeasilturk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"> 
-</a>
-<a href="https://twitter.com/ataegeasilturk" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="mail"> 
-</a>
-<a href="https://steamcommunity.com/id/ataegeasilturk" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-27528D?style=for-the-badge&logo=steam&logoColor=white" alt="mail"> 
-</a>
+### Selected public work
 
-<br/>
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ataege&label=Profile%20views&color=1fbcff&style=flat" alt="ataege" /> </p>
+- [libexpress](https://github.com/ataege/libexpress) — TypeScript decorators for structured Express applications
+- [fitproj](https://github.com/ataege/fitproj) — Go/Fiber API project with an organized backend structure
+- [magnetdi](https://github.com/ataege/magnetdi) — Lightweight TypeScript dependency-injection package
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/320280473932922893?animated=true&bg=2C2F33&hideDiscrim=true)](https://discord.com/users/320280473932922893)
+### Core stack
 
+`TypeScript` · `Node.js` · `NestJS` · `.NET` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Docker`
 
-<details>
-  <summary>My Metrics</summary>
-  <br>
-  <img src="https://metrics.lecoq.io/ataege?template=terminal&base.metadata=0&languages=1&stars=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=Europe%2FIstanbul">
-</details>
+### Connect
+
+[Portfolio](https://ataege.com/) · [LinkedIn](https://www.linkedin.com/in/ataege/) · [Email](mailto:ataegeasilturk@gmail.com)
